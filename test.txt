@@ -1,2 +1,3 @@
 This is a new text document.
 And I'd like to commit this.
+More changes to this file.
